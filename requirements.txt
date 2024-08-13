@@ -1,0 +1,6 @@
+lxml
+pandas
+numpy
+streamlit
+seaborn
+matplotlib
